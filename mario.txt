@@ -1,0 +1,15 @@
+
+##############################################################################
+
+Java es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995
+por Sun Microsystems. Hay muchas aplicaciones y sitios web que no funcionarán, probablemente, a menos que tengan 
+Java instalado, y cada día se crean más. Java es rápido, seguro y fiable. Desde ordenadores portátiles hasta centros
+de datos, desde consolas para juegos hasta computadoras avanzadas, desde teléfonos móviles hasta Internet, Java está
+en todas partes. Si es ejecutado en una plataforma no tiene que ser recompilado para correr en otra. Java es, a partir
+de 2012, uno de los lenguajes de programación más populares en uso, particularmente para aplicaciones de cliente-servidor
+de web, con unos diez millones de usuarios reportados.
+
+Mario Bello García
+Archivo de prueba para tarea 6 PSP(DAM).
+
+##############################################################################
